@@ -10,4 +10,4 @@ spec:
     semver: ">=2.0.0"
   repository:
     url: ghcr.io/mohammad-ammar14
-  serviceAccountName: air-gapped-ops
+  # serviceAccountName: air-gapped-ops
