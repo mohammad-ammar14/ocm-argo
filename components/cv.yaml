@@ -7,7 +7,7 @@ spec:
   interval: 1m0s
   component: ocm.software/argo-cd-demo
   version:
-    semver: ">=2.0.0"
+    semver: ">=1.0.0"
   repository:
     url: ghcr.io/mohammad-ammar14
   # serviceAccountName: air-gapped-ops
