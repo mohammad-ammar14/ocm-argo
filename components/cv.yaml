@@ -1,7 +1,7 @@
 apiVersion: delivery.ocm.software/v1alpha1
 kind: ComponentVersion
 metadata:
-  name: argo-demo
+  name: argo-demo-1
   namespace: ocm-system
 spec:
   interval: 1m0s
